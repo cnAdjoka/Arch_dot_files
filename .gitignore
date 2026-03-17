@@ -1,0 +1,47 @@
+# vscode 
+ Code - OSS/
+
+  GIMP/
+	QtProject.conf
+	cat_installer/
+	dconf/
+	dolphinrc
+	filetypesrc
+	go/
+	htop/
+	mimeapps.list
+
+# firefox
+  mozilla/firefox/66v55dd5.default-release/
+	mozilla/firefox/Crash Reports/
+	mozilla/firefox/Profile Groups/
+	mozilla/firefox/bqz8mw96.default-release/AlternateServices.bin
+	mozilla/firefox/bqz8mw96.default-release/SiteSecurityServiceState.bin
+	mozilla/firefox/bqz8mw96.default-release/datareporting/archived/
+	mozilla/firefox/bqz8mw96.default-release/datareporting/glean/
+	mozilla/firefox/bqz8mw96.default-release/notificationstore.json
+	mozilla/firefox/bqz8mw96.default-release/prefs.js
+	mozilla/firefox/bqz8mw96.default-release/security_state/
+	mozilla/firefox/bqz8mw96.default-release/serviceworker.txt
+	mozilla/firefox/bqz8mw96.default-release/sessionCheckpoints.json
+	mozilla/firefox/bqz8mw96.default-release/sessionstore.jsonlz4
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++accounts.google.com/
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++duckduckgo.com/
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++stackoverflow.com/
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++store.steampowered.com/
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++studium.umontreal.ca/
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++www.facebook.com/
+	mozilla/firefox/bqz8mw96.default-release/storage/default/https+++www.google.com/
+	mozilla/firefox/firefox-mpris/
+	mozilla/firefox/installs.ini
+	mozilla/firefox/ixv0tynz.default/
+	mozilla/firefox/profiles.ini
+
+  pavucontrol.ini
+	pulse/
+	qBittorrent/
+	session/
+	trashrc
+	vesktop/
+	vlc/
+yay/
